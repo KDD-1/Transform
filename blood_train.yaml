@@ -1,0 +1,6 @@
+train: C:\Users\KDD\Downloads\Programe_of_MUSTlab\YOLOv8\954\train\images
+val: C:\Users\KDD\Downloads\Programe_of_MUSTlab\YOLOv8\954\valid\images
+test: C:\Users\KDD\Downloads\Programe_of_MUSTlab\YOLOv8\954\test\images
+
+nc: 2
+names: [no_blood_cell,blood_cell]
